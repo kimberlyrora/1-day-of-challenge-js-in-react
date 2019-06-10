@@ -2,6 +2,7 @@
   "name": "drum",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://kimberlyrora.github.io/1-day-of-challenge-js-in-react/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
